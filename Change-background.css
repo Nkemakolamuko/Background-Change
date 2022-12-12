@@ -1,0 +1,17 @@
+div {
+  position: relative;
+}
+
+button {
+    border: 1px solid #9000ff;
+    width: 50%;
+    border-radius: 5px;
+    height: 10vh;
+    font-weight: bolder;
+    font-size: 5vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 50%;
+}
